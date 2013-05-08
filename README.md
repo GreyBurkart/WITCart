@@ -40,8 +40,8 @@ Concept version, prototyped for an onstage "medical monitor" display to match ch
 ## Third Party Modules
 Several elements were created by others and modified by me where necessary.
 
-	- [ManySpriteClock](http://www.quartzcompositions.com/phpBB2/upload/details.php?file=9908)
-	- [NumWorld](http://vimeo.com/5693158)
-	- [Audio-Reactive Spectrum](source needed)
-	- [Color Matrix](source needed)
-	- M8 Blur effect: [Hybrid Visuals](http://www.hybridvisuals.nl) and [Memo](http://www.memo.tv)
+- [ManySpriteClock](http://www.quartzcompositions.com/phpBB2/upload/details.php?file=9908)
+- [NumWorld](http://vimeo.com/5693158)
+- [Audio-Reactive Spectrum](source needed)
+- [Color Matrix](source needed)
+- M8 Blur effect: [Hybrid Visuals](http://www.hybridvisuals.nl) and [Memo](http://www.memo.tv)
