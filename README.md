@@ -1,6 +1,8 @@
 # README
 
-Concept version, prototyped for an onstage "medical monitor" display to match character state. Designed to be run from a Korg nanoKONTROL2 with TouchOSC and Lemur templates included.
+Concept version, prototyped for an onstage "medical monitor" display to match character state. Designed to be run from a Korg nanoKONTROL2 with TouchOSC and Lemur templates included. Target monitor resolution either 640x480 or 800x600.
+
+![](WITCart-Screenshot.png)
 
 ## MIDI Map (channel 16):
 
